@@ -4,12 +4,12 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDSijhz_RxgEnjaIQJtlk2LFbUnro40z3A",
-  authDomain: "chathub-c522f.firebaseapp.com",
-  projectId: "chathub-c522f",
-  storageBucket: "chathub-c522f.appspot.com",
-  messagingSenderId: "265332417203",
-  appId: "1:265332417203:web:097b2768d86c80988d86c6"
+  apiKey: "AIzaSyCOFDM2oR8qkyneO6VJX1XQD6dubKhNV9U",
+  authDomain: "chathub-326c9.firebaseapp.com",
+  projectId: "chathub-326c9",
+  storageBucket: "chathub-326c9.appspot.com",
+  messagingSenderId: "503281004503",
+  appId: "1:503281004503:web:db7b98575af9f85e052592"
 };
 
 // Initialize Firebase
